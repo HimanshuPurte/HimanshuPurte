@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HimanshuPurte
 - 👀 I’m interested in Playing Games
-- 🌱 I’m currently learning C++,DSA. I'm also wants to PYTHON soon.
+- 🌱 I’m currently learning C++,DSA. I'm also wants to explore PYTHON soon.
 - 📫 Follow me on insta @Himanshu.purte
 
 <!---
